@@ -1,0 +1,19 @@
+1.	WAP to calculate simple interest
+2.	WAP to calculate area and perimeter of a rectangle
+3.	WAP to swap two numbers with and without using third variable
+4.	Check whether the year is leap or not
+5.	Convert Upper to lower case and vice versa
+6.	Convert Celsius into Fahrenheit and vice versa
+7.	WAP to calculate net salary of employee, take basic salary of employee and calculate
+ HRA 30% of basic salary, 
+DA 20% of the basic salary, 
+TA 10% of the basic salary and 
+Net salary is sum up of basic salary+ allowances-pf.
+ Pf is 1400 fix. 
+8.	WAP to check whether the triangle is isosceles , equilateral or scalene.
+9.	Find out entered number is Positive or Negative Number.
+10.	Find out the grade , according to given percentage of the user.
+a.	>=90 print ‘A’ Grade
+b.	89 to 70 print ‘B’ Grade
+c.	69 to 50 print ‘C’ Grade
+d.	<50 print ‘D’ Grade 
